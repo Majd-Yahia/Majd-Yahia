@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Majd-Yahia
 - 👀 I’m interested in Game and FullStack Development.
 - 🌱 I’m currently learning Node.js, Unity and unreal engine.
-- 💞️ I’m looking to collaborate on what ever grinds my gear.
 - 📫 Majd.m4a4@gmail.com
